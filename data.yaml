@@ -1,6 +1,0 @@
-path: ./
-train: images/train
-val: images/val
-
-nc: 2 # количество классов
-names: ['game', 'upgrade LvL'] # названия классов
