@@ -1,0 +1,6 @@
+path: ./
+train: images/train
+val: images/val
+
+nc: 3 # количество классов
+names: ['game', 'upgrade LvL', 'bonus'] # названия классов: 0 — обычная печенька, 1 — кнопки прокачки, 2 — золотая печенька
